@@ -20,6 +20,12 @@ I didn’t use any external libraries for this project. Everything is built with
 
 The app has a simple image caching system. This means that once an image is downloaded, it gets stored locally. This helps the app load images faster and uses less data when users scroll through the list.
 
+## Requirements
+- iOS 13 or later
+
+## Run
+To run the project, clone the repo and run
+
 ## Setup Instructions
 
 To get the app running, follow these steps:
@@ -48,3 +54,8 @@ Here are some ideas for future updates:
 - The app shows loading indicators and error messages to keep users informed if something goes wrong while fetching data.
 - The code includes comments to explain key parts and decisions.
 - Users can search for repositories by name, making it easier to find what they're looking for.
+
+## Screenshots
+![Simulator Screenshot - iPhone 16 - 2024-11-05 at 00 14 14-portrait](https://github.com/user-attachments/assets/d4bb119a-5a94-4602-96bc-bd41b7c7470f)
+![Simulator Screenshot - iPhone 16 - 2024-11-05 at 00 14 33-portrait](https://github.com/user-attachments/assets/a2c72439-e6da-41c5-963a-ddda40a3c530)
+![Simulator Screenshot - iPhone 16 - 2024-11-05 at 00 15 04-portrait](https://github.com/user-attachments/assets/5f672a66-0897-482a-9f54-090e8330ef61)
