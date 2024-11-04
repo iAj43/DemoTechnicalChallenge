@@ -23,9 +23,6 @@ The app has a simple image caching system. This means that once an image is down
 ## Requirements
 - iOS 13 or later
 
-## Run
-To run the project, clone the repo and run
-
 ## Setup Instructions
 
 To get the app running, follow these steps:
@@ -40,14 +37,6 @@ To get the app running, follow these steps:
 ## Testing
 
 You can find unit tests in the `Tests` folder of the project. Use Xcode’s testing tools to run them. Just make sure you have an internet connection to pull data from GitHub.
-
-## Future Improvements
-
-Here are some ideas for future updates:
-
-- Add more features to improve user experience, like a pull-to-refresh option.
-- Enhance error handling to give clearer feedback during network issues.
-- Optimize image caching and loading for even better performance.
 
 ## Notes
 
