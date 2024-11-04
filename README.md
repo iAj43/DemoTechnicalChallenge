@@ -54,6 +54,7 @@ Here are some ideas for future updates:
 - The app shows loading indicators and error messages to keep users informed if something goes wrong while fetching data.
 - The code includes comments to explain key parts and decisions.
 - Users can search for repositories by name, making it easier to find what they're looking for.
+- This App is dark mode compatible
 
 ## Screenshots
 ![Simulator Screenshot - iPhone 16 - 2024-11-05 at 00 14 14-portrait](https://github.com/user-attachments/assets/d4bb119a-5a94-4602-96bc-bd41b7c7470f)
