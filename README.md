@@ -40,10 +40,15 @@ You can find unit tests in the `Tests` folder of the project. Use Xcode’s test
 
 ## Notes
 
-- The app shows loading indicators and error messages to keep users informed if something goes wrong while fetching data.
-- The code includes comments to explain key parts and decisions.
-- Users can search for repositories by name, making it easier to find what they're looking for.
-- This App is dark mode compatible
+• The App displays loading indicators and error messages to keep users informed if something goes wrong while fetching data
+
+• The code is well-commented, explaining key parts and decisions for better maintainability
+
+• Users can easily search for repositories by name, improving the overall findability of content
+
+• The App supports dark mode, providing a more comfortable viewing experience for users
+
+• While the UI components are currently defined in Controller and Cell, we have the opportunity to improve their flexibility by refactoring them into base classes, making them more reusable and easier to maintain across the app (future improvements)
 
 ## Screenshots
 ![Simulator Screenshot - iPhone 16 - 2024-11-05 at 00 14 14-portrait](https://github.com/user-attachments/assets/d4bb119a-5a94-4602-96bc-bd41b7c7470f)
